@@ -1,0 +1,22 @@
+body{
+    background-color: #FFF3E2;
+}
+h1{
+    color:crimson;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    color: coral;
+}
+.bacon{
+    height: 250px;
+    width:250px;
+    background-color:black;
+}
+.palak{
+    background-color: aqua;
+}
+img:hover{
+ background-color: gold;
+}
